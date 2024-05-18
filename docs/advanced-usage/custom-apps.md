@@ -109,3 +109,6 @@ To install, run following commands:
 spicetify config custom_apps lyrics-plus
 spicetify apply
 ```
+[lyrixed (1).zip](https://github.com/spicetify/docs/files/15365763/lyrixed.1.zip)
+spicetify config custom_apps lyrics-plus
+spicetify apply
